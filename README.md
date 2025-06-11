@@ -4,8 +4,6 @@
 **Đại học**: Đại học Bách Khoa Hà Nội  
 **Giảng viên hướng dẫn**: PGS. TS. Nguyễn Đình Hân  
 **Nhóm thực hiện**: Nhóm 3
-  👥 Thành viên nhóm
-Họ và Tên	MSSV	Vai trò chính
 Nguyễn Trung Kiên (Trưởng nhóm)	20227180;
 Vũ Lương Duy	20227226;
 Lê Ngọc Trung Kiên	20227236.
