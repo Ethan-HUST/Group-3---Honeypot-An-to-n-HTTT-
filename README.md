@@ -6,9 +6,9 @@
 **Nhóm thực hiện**: Nhóm 3
   👥 Thành viên nhóm
 Họ và Tên	MSSV	Vai trò chính
-Nguyễn Trung Kiên (Trưởng nhóm)	20227180	Triển khai, phân tích dữ liệu, soạn báo cáo
-Vũ Lương Duy	20227226	Nghiên cứu lý thuyết, thiết kế slide
-Lê Ngọc Trung Kiên	20227236	Báo cáo tiến độ, công cụ honeypot
+Nguyễn Trung Kiên (Trưởng nhóm)	20227180;
+Vũ Lương Duy	20227226;
+Lê Ngọc Trung Kiên	20227236.
 
 **Năm học**: 2024–2025
 
